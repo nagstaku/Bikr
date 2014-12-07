@@ -53,3 +53,7 @@ C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\bin\Mic
 C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\obj\Debug\Bikr.csprojResolveAssemblyReference.cache
 C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\obj\Debug\Bikr.dll
 C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\obj\Debug\Bikr.pdb
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\bin\CsvHelper.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\bin\EntityFramework.Seeder.EF6.dll
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\bin\CsvHelper.pdb
+C:\Users\Ninja\Documents\Visual Studio 2013\Projects\Bikr\Bikr\Bikr\Bikr\bin\CsvHelper.xml

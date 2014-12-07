@@ -29,5 +29,7 @@ namespace Bikr.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<Bikr.Models.Ping> Pings { get; set; }
     }
 }
